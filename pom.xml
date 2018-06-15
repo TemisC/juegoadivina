@@ -80,16 +80,16 @@
 						<goals>
 							<goal>copy</goal>
 						</goals>
-						<configuration>
+						<!--configuration>
 							<artifactItems>
 								<artifactItem>
-									<groupId>com.github.TemisC</groupId>
+									<groupId>com.github.jsimone</groupId>
 									<artifactId>webapp-runner</artifactId>
 									<version>8.0.30.2</version>
 									<destFileName>webapp-runner.jar</destFileName>
 								</artifactItem>
 							</artifactItems>
-						</configuration>
+						</configuration-->
 					</execution>
 				</executions>
 			</plugin>
